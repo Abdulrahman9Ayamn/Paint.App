@@ -24,7 +24,7 @@ public class PaintGui  extends JFrame {
         conwasPanel.add(canvas);
         springLayout.putConstraint(SpringLayout.NORTH,canvas,50,springLayout.NORTH,conwasPanel);
 
-        //2.Color chocser
+        //22.Color chocser
 
 
         this.getContentPane().add(conwasPanel);
